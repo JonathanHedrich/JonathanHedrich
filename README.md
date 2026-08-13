@@ -22,3 +22,5 @@ I'm a trained Software Developer with hands-on experience in frontend and backen
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JonathanHedrich"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanHedrich&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![snake gif](https://github.com/JonathanHedrich/JonathanHedrich/blob/output/github-snake-dark.svg)
