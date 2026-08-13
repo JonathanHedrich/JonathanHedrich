@@ -1,26 +1,201 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jonathan Hedrich
-=========================================================================================================================================
+<div align="center">
 
-I'm a trained Software Developer with hands-on experience in frontend and backend development. I have expanded my skills into Cloud Computing and DevOps, including Docker, Kubernetes, Terraform, Ansible, Infrastructure as Code and cloud automation. I'm passionate about combining software development with modern cloud technologies and continuously expanding my technical skills.
+# 👋 Hi, I'm Jonathan Hedrich
 
-* 🌍  I'm based in Leipzig, Germany
-* 🖥️  See my portfolio at [My Portfolio](http://web-developer-profile.vercel.app/)
-* ✉️  You can contact me at [Jonathanhedrich@gmail.com](mailto:Jonathanhedrich@gmail.com)
-* 🧠  I'm currently learning Docker, Kubernetes, Terraform, Ansible & Cloud Automation
-* 👥  I'm looking to collaborate on Cloud, DevOps, Full-Stack and Open-Source Projects
-* 💬  Ask me about Always learning, building and exploring new technologies.
+### Software Developer | Aspiring DevOps & Cloud Engineer
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+%2F+Cloud+Engineer;Junior+Software+Developer;Docker+%7C+Kubernetes+%7C+Terraform;Java+%7C+TypeScript+%7C+Node.js;Always+learning+new+technologies..."
+  alt="Typing SVG"
+/>
+
+<br/>
+
+<a href="http://web-developer-profile.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jonathan-hedrich-9b4492235/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Jonathanhedrich@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Jonathan Hedrich
+location: Leipzig, Germany
+role: Junior DevOps / Cloud Engineer
+
+background:
+  - Software Development
+  - Frontend & Backend Development
+
+focus:
+  - DevOps
+  - Cloud Computing
+  - Infrastructure as Code
+  - Automation
+
+currently_learning:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Ansible
+  - Cloud Automation
+
+goal: Build, automate and operate modern cloud applications
+```
+
+I'm a trained **Software Developer** with hands-on experience in
+frontend and backend development.
+
+I'm currently expanding my knowledge in **Cloud Computing & DevOps**
+and combining software development with infrastructure,
+automation and modern cloud technologies.
+
+> 💡 *From writing applications to understanding how they are built,
+> deployed and operated.*
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ DevOps & Cloud
 
 <p align="left">
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp,git,github,gitlab&perline=10" />
+
 </p>
 
-### Socials
+**Currently focusing on**
 
-<p align="left"> <a href="https://www.github.com/JonathanHedrich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/JonathanHedrich" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/jonathan-hedrich-9b4492235/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+`Docker` • `Kubernetes` • `Terraform` • `Ansible` • `Infrastructure as Code` • `Cloud Automation`
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/JonathanHedrich"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanHedrich&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 💻 Software Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,angular,react,html,css,scss&perline=10" />
+
+</p>
+
+---
+
+### 🗄️ Databases & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode,idea,postman&perline=10" />
+
+</p>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+```text
+Software Development
+        │
+        ▼
+      Git
+        │
+        ▼
+   CI / CD
+        │
+        ▼
+     Docker
+        │
+        ▼
+   Kubernetes
+        │
+        ▼
+ Cloud Infrastructure
+        │
+        ▼
+ Terraform / Ansible
+        │
+        ▼
+     Monitoring
+```
+
+My goal is to deepen my practical knowledge of the complete
+**development → deployment → infrastructure → monitoring** lifecycle.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanHedrich&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JonathanHedrich&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
 
 ![snake gif](https://github.com/JonathanHedrich/JonathanHedrich/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/JonathanHedrich">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://gitlab.com/JonathanHedrich">
+  <img src="https://skillicons.dev/icons?i=gitlab" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jonathan-hedrich-9b4492235/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ☁️ Build • Automate • Deploy • Improve
+
+![Profile Views](https://komarev.com/ghpvc/?username=JonathanHedrich&style=for-the-badge)
+
+</div>
